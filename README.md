@@ -7,3 +7,6 @@
 - Reinforcement Learning: Implemented model-based and model-free reinforcement learning algorithms.
 
 - Ghostbusters: Implemented exact inference using the forward algorithm and approximate inference via particle filters.
+
+To test each implementation, run the following in their respective directories:
+python autograder.py
